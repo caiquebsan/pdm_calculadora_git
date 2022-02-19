@@ -5,10 +5,13 @@ public class CalculadoraGit {
         int numero1 = 5;
         int numero2 = 10;
         int soma = numero1 + numero2;
+        int subtracao = numero1 - numero2;
 
         System.out.println("Será realizado a soma dos dois numeros!!!");
         System.out.println("Resultado = " + soma );
     
+        System.out.println("Será realizado a subtracao dos dois numeros!!!");
+        System.out.println("Resultado = " + subtracao );
     }   
 
 }
